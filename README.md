@@ -36,7 +36,7 @@ To run this project locally, follow these steps:
 
 ## Demo
 
-You can view a live demo of this project on [GitHub Pages](https://your-demo-link-here.com).
+You can view a live demo of this project on [GitHub Pages]([https://your-demo-link-here.com](https://react-pizza-menu-demo.netlify.app/)).
 
 ## Contributing
 

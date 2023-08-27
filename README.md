@@ -6,6 +6,11 @@ Welcome to my "React Pizza Menu" project! This project was created to help me le
 
 This React project showcases a pizza menu with various pizza options. Users can interact with the menu, view pizza details, and place orders. While the pizza list is not dynamic in this version, it still serves as a great foundation for future enhancements.
 
+## Demo
+
+You can view a live demo of this project on [GitHub Pages](https://react-pizza-menu-demo.netlify.app/).
+
+
 ## What I've Learned and Used
 
 - **React Components:** The project is built using multiple React components, making it easy to manage and maintain the UI.
@@ -34,9 +39,6 @@ To run this project locally, follow these steps:
 
 5. Open your web browser and visit `http://localhost:3000` to explore the React Pizza Menu.
 
-## Demo
-
-You can view a live demo of this project on [GitHub Pages](https://react-pizza-menu-demo.netlify.app/).
 
 ## Contributing
 
